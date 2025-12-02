@@ -9,6 +9,9 @@
  * The implementation is trivial.
  *
  * @return success code
+ *
+ * @timecomplexity O(log n) (well, in theory...)
+ * @spacecomplexity O(1)
  */
 int main(){
     ll n;
